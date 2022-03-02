@@ -4,3 +4,9 @@
 [2022/03/02 20:28:35] ftx {"success":false,"error":"Not enough balances"}
 [2022/03/02 20:30:17] ftx {"success":false,"error":"Not enough balances"}
 [2022/03/02 20:30:17] ftx {"success":false,"error":"Not enough balances"}
+[2022/03/02 20:38:36] ftx {"success":false,"error":"Not enough balances"}
+[2022/03/02 20:38:36] ftx {"success":false,"error":"Not enough balances"}
+[2022/03/02 20:40:47] ftx {"success":false,"error":"Not enough balances"}
+[2022/03/02 20:40:47] ftx {"success":false,"error":"Not enough balances"}
+[2022/03/02 20:43:14] ftx {"success":false,"error":"Not enough balances"}
+[2022/03/02 20:43:14] ftx {"success":false,"error":"Not enough balances"}

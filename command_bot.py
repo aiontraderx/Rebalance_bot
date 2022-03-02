@@ -31,6 +31,7 @@ def show_setting():
 
 def _cancel_all():
     cancle = B.exc.exchange.cancel_all_orders()
+    print('Cancle order all symbols')
 
     return cancle
 
@@ -205,79 +206,77 @@ def get_resposnse(cond=None):
 
     elif command in ['!help']:
 
-        help_list = ['res', 'kill', 'pause', 'save_db', 'hold', 'show_setting', 'exit', 'rebalance',
+        help_list = ['res', 'kill', 'pause', 'save_db', 'show_port', 'show_setting', 'exit', 'rebalance','check_rebal',
                      'edit_set', 'check_status']
-        print(help_list)
+        print('Prefix ! : ',help_list)
 
-    elif command in ['Kill', 'kill']:
+    elif command in ['!kill']:
         # save cond
         cond = 'kill'
         B._close()
 
-    elif command in ['pause', 'Pause', 'stop', 'off']:
+    elif command in ['!pause']:
         cond = 'off'  # save
         # no save cond  or save for manual
         B._pause()
 
-    elif command in ['save_db', 'savedb']:
+    elif command in ['!save_db', '!savedb']:
         DB = PortDatabase()
         threading.Thread(target=cd_save, args=(DB, 3600), daemon=True).start()
 
-    elif command in ['hold']:
+    elif command in ['!show_port']:
         print(show_port())
 
-    elif command in ['show_setting']:
+    elif command in ['!show_setting']:
         res= B.setting
         df=pd.DataFrame(res).T
         print(df)
 
-    elif command in ['exit']:
+    elif command in ['!exit']:
         B._close()
         sys.exit()
 
 
-    elif command in ['rebalance']:
+    elif command in ['!rebalance']:
         B._run_bot()
 
 
-    elif command in ['check_rebal']:
+    elif command in ['!check_rebal']:
         print(ASSETS_TO_TRADE)
         for symbol in B.ASSETS_TO_TRADE:
             print(f'CHECK REB {symbol}')
             B._check_reb(symbol)
 ######## Addition & Test ####
-    elif command in ['manual_trade']: #!!!!!!!!!!!
-        # cancle = B.exc.exchange.cancel_all_orders()
+    elif command in ['!manual_trade']: #!!!!!!!!!!!
+        _cancel_all()
         _create_manual_trade()
         # print('Cancle order all symbols')
 
-
-    elif command in ['cancel_all']:
+    elif command in ['!cancle_all']:
         # cancle = B.exc.exchange.cancel_all_orders()
         _cancel_all()
-        print('Cancle order all symbols')
 
 
 
-    elif command in ['cancel_symbol']:
+    elif command in ['!cancle_symbol']:
         symbol = input('Symbols to Cancle')
         B.exc.cancelby_symbol(symbol)  # Cancle all order on symbol
 
-    elif command in ['edit_asset_trade']:
+    elif command in ['!edit_asset_trade']:
         print(B.ASSETS_TO_TRADE)
 
 
-    elif command in ['check_status']:
+    elif command in ['!check_status']:
         statusx = B.OPEN_BOT
         status_run_bot = B.run_bot
         print(f'Open Bot {statusx}, Auto Rebalance{status_run_bot}')
 
-    elif command in ['edit_setting', 'edit_set']:
+    elif command in ['!edit_setting', 'edit_set']:
 
         print(B.setting)
         edit_setting(setting_dict=None)
 
-    elif command in ['active_order']:
+    elif command in ['!active_order']:
         print(show_active_orders())
 
     else:

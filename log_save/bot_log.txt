@@ -7,3 +7,15 @@
 [2022/03/02 20:30:12] USER Start Bot
 [2022/03/02 20:30:14] ETH/USD Rebalance :buy
 [2022/03/02 20:30:16] SOL/USD Rebalance :buy
+[2022/03/02 20:38:31] USER Start Bot
+[2022/03/02 20:38:33] ETH/USD Rebalance :buy
+[2022/03/02 20:38:35] SOL/USD Rebalance :buy
+[2022/03/02 20:40:42] USER Start Bot
+[2022/03/02 20:40:44] ETH/USD Rebalance :buy
+[2022/03/02 20:40:46] SOL/USD Rebalance :buy
+[2022/03/02 20:43:08] USER Start Bot
+[2022/03/02 20:43:10] ETH/USD Rebalance :buy
+[2022/03/02 20:43:12] SOL/USD Rebalance :buy
+[2022/03/02 20:43:45] ETH/USD Rebalance :buy
+[2022/03/02 20:43:46] SOL/USD Rebalance :buy
+[2022/03/02 20:45:13] Exit_Programes : User Close BOT
