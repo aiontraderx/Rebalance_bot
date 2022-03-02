@@ -1,0 +1,174 @@
+[2021/10/21 01:19:29] USER Start Bot
+[2021/10/21 01:20:33] USER Start Bot
+[2021/10/21 01:20:35] ETH/USD Rebalance :buy
+[2021/10/21 01:20:36] SOL/USD Rebalance :buy
+[2021/10/21 01:29:36] USER Start Bot
+[2021/10/21 01:29:38] ETH/USD Rebalance :buy
+[2021/10/21 01:29:40] SOL/USD Rebalance :buy
+[2021/10/21 01:31:10] USER Start Bot
+[2021/10/21 01:31:12] ETH/USD Rebalance :buy
+[2021/10/21 01:31:14] SOL/USD Rebalance :buy
+[2021/10/21 01:31:47] ETH/USD Rebalance :buy
+[2021/10/21 01:31:49] SOL/USD Rebalance :buy
+[2021/10/21 01:32:19] ETH/USD Rebalance :buy
+[2021/10/21 01:32:22] SOL/USD Rebalance :buy
+[2021/10/21 01:32:52] ETH/USD Rebalance :buy
+[2021/10/21 01:32:55] SOL/USD Rebalance :buy
+[2021/10/21 01:33:24] ETH/USD Rebalance :buy
+[2021/10/21 01:33:27] SOL/USD Rebalance :buy
+[2021/10/21 01:33:57] ETH/USD Rebalance :buy
+[2021/10/21 01:35:29] USER Start Bot
+[2021/10/21 01:35:31] ETH/USD Rebalance :buy
+[2021/10/21 01:35:33] SOL/USD Rebalance :buy
+[2021/10/21 01:36:06] ETH/USD Rebalance :buy
+[2021/10/21 01:36:08] SOL/USD Rebalance :buy
+[2021/10/21 01:36:38] ETH/USD Rebalance :buy
+[2021/10/21 01:36:41] SOL/USD Rebalance :buy
+[2021/10/21 01:37:11] ETH/USD Rebalance :buy
+[2021/10/21 01:37:45] USER Start Bot
+[2021/10/21 01:37:47] ETH/USD Rebalance :buy
+[2021/10/21 01:37:49] SOL/USD Rebalance :buy
+[2021/10/21 01:38:22] ETH/USD Rebalance :buy
+[2021/10/21 01:38:24] SOL/USD Rebalance :buy
+[2021/10/21 01:38:54] ETH/USD Rebalance :buy
+[2021/10/21 01:38:57] SOL/USD Rebalance :buy
+[2021/10/21 01:39:27] ETH/USD Rebalance :buy
+[2021/10/21 01:39:30] SOL/USD Rebalance :buy
+[2021/10/21 01:40:00] ETH/USD Rebalance :buy
+[2021/10/21 01:40:04] SOL/USD Rebalance :buy
+[2021/10/21 01:40:33] ETH/USD Rebalance :buy
+[2021/10/21 01:40:37] SOL/USD Rebalance :buy
+[2021/10/21 01:41:06] ETH/USD Rebalance :buy
+[2021/10/21 01:41:10] SOL/USD Rebalance :buy
+[2021/10/21 01:46:17] ETH/USD Rebalance :buy
+[2021/10/21 01:46:19] SOL/USD Rebalance :buy
+[2021/10/21 01:46:52] ETH/USD Rebalance :buy
+[2021/10/21 01:46:54] SOL/USD Rebalance :buy
+[2021/10/21 01:47:24] ETH/USD Rebalance :buy
+[2021/10/21 01:47:27] SOL/USD Rebalance :buy
+[2021/10/21 01:47:57] ETH/USD Rebalance :buy
+[2021/10/21 01:47:59] SOL/USD Rebalance :buy
+[2021/10/21 01:48:29] ETH/USD Rebalance :buy
+[2021/10/21 01:48:32] SOL/USD Rebalance :buy
+[2021/10/21 01:49:02] ETH/USD Rebalance :buy
+[2021/10/21 01:49:05] SOL/USD Rebalance :buy
+[2021/10/21 01:49:35] ETH/USD Rebalance :buy
+[2021/10/21 01:49:37] SOL/USD Rebalance :buy
+[2021/10/21 01:51:17] USER Start Bot
+[2021/10/21 01:51:19] ETH/USD Rebalance :buy
+[2021/10/21 01:51:21] SOL/USD Rebalance :buy
+[2021/10/21 01:51:53] ETH/USD Rebalance :buy
+[2021/10/21 01:51:55] SOL/USD Rebalance :buy
+[2021/10/21 01:52:50] USER Start Bot
+[2021/10/21 01:52:52] ETH/USD Rebalance :buy
+[2021/10/21 01:52:53] SOL/USD Rebalance :buy
+[2021/10/21 01:54:16] USER Start Bot
+[2021/10/21 01:54:18] ETH/USD Rebalance :buy
+[2021/10/21 01:55:43] USER Start Bot
+[2021/10/21 01:55:45] ETH/USD Rebalance :buy
+[2021/10/21 01:55:47] SOL/USD Rebalance :buy
+[2021/10/21 01:56:19] ETH/USD Rebalance :buy
+[2021/10/21 01:57:05] USER Start Bot
+[2021/10/21 01:57:06] ETH/USD Rebalance :buy
+[2021/10/21 01:57:08] SOL/USD Rebalance :buy
+[2021/10/21 01:57:41] ETH/USD Rebalance :buy
+[2021/10/21 01:57:44] SOL/USD Rebalance :buy
+[2021/10/21 01:58:14] ETH/USD Rebalance :buy
+[2021/10/21 01:58:17] SOL/USD Rebalance :buy
+[2021/10/21 01:58:47] ETH/USD Rebalance :buy
+[2021/10/21 01:58:49] SOL/USD Rebalance :buy
+[2021/10/21 01:59:20] ETH/USD Rebalance :buy
+[2021/10/21 01:59:22] SOL/USD Rebalance :buy
+[2021/10/21 01:59:52] ETH/USD Rebalance :buy
+[2021/10/21 01:59:55] SOL/USD Rebalance :buy
+[2021/10/21 02:00:25] ETH/USD Rebalance :buy
+[2021/10/21 02:06:19] USER Start Bot
+[2021/10/21 02:06:21] ETH/USD Rebalance :buy
+[2021/10/21 02:06:23] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:07:47] USER Start Bot
+[2021/10/21 02:07:49] ETH/USD Rebalance :buy
+[2021/10/21 02:07:50] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:08:23] ETH/USD Rebalance :buy
+[2021/10/21 02:09:05] USER Start Bot
+[2021/10/21 02:09:07] ETH/USD Rebalance :buy
+[2021/10/21 02:09:09] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:09:42] USER Start Bot
+[2021/10/21 02:09:44] ETH/USD Rebalance :buy
+[2021/10/21 02:09:45] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:10:18] ETH/USD Rebalance :buy
+[2021/10/21 02:14:48] USER Start Bot
+[2021/10/21 02:14:50] ETH/USD Rebalance :buy
+[2021/10/21 02:14:52] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:15:16] USER Start Bot
+[2021/10/21 02:16:11] USER Start Bot
+[2021/10/21 02:16:13] ETH/USD Rebalance :buy
+[2021/10/21 02:16:15] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:16:48] USER Start Bot
+[2021/10/21 02:16:50] ETH/USD Rebalance :buy
+[2021/10/21 02:16:51] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:17:24] ETH/USD Rebalance :buy
+[2021/10/21 02:17:56] ETH/USD Rebalance :buy
+[2021/10/21 02:18:29] ETH/USD Rebalance :buy
+[2021/10/21 02:19:02] ETH/USD Rebalance :buy
+[2021/10/21 02:19:34] ETH/USD Rebalance :buy
+[2021/10/21 02:20:07] ETH/USD Rebalance :buy
+[2021/10/21 02:25:19] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:25:21] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:31:28] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:31:30] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:37:37] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:37:39] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:43:45] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:43:47] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:49:54] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:49:56] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:56:02] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 02:56:04] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:02:11] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:02:13] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:08:20] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:08:22] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:14:28] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:14:30] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:20:37] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:20:39] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:26:46] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:26:48] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:32:55] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:32:57] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:39:04] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:39:06] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:45:13] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:45:15] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:51:22] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:51:24] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:57:30] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 03:57:32] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:03:38] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:03:40] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:09:46] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:09:48] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:15:54] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:15:56] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:22:03] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:22:05] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:28:11] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:28:13] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:34:20] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:34:22] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:40:28] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:40:30] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:46:37] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:46:39] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:52:45] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:52:47] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:58:53] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 04:58:55] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 05:05:02] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 05:05:04] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 05:11:10] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 05:11:12] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 05:17:19] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 05:17:21] SOL/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 05:23:29] ETH/USD Rebalance :wait,Refresh time 300 Seconds 
+[2021/10/21 05:23:31] SOL/USD Rebalance :wait,Refresh time 300 Seconds 

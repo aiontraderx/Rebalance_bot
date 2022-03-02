@@ -1,0 +1,3 @@
+{"ETH/USD": {"symbol": "ETH/USD", "fix": 500, "buy_p": 0.02, "sell_p": 0.02, "tp": 0.5, "sl": 0.5},
+
+"SOL/USD": {"symbol": "SOL/USD", "fix": 300, "buy_p": 0.02, "sell_p": 0.02, "tp": 0.5, "sl": 0.5}}
