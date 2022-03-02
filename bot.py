@@ -166,7 +166,7 @@ class BOT(Thread):
         order = self.exc.create_custom_order(symbols=action['symbol'], side=sidex, unit=action['unit']
                                          , price=pricex, typex='limit')
         # first buy price by action['price']
-
+        cond= False
         order_id = order['id']
         loop_count = 0
         check_loop = 6

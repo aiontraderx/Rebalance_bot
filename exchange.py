@@ -7,12 +7,12 @@ from decimal import Decimal
 import pandas as pd
 from utilis import log,log_bot,log_ex
 
-ex = ccxt.ftx({'api_key':apikey,'secret':secret_key ,'enableRateLimit': True,'headers': {
-                    'FTX-SUBACCOUNT': sub_account_name,
-                }})
+# ex = ccxt.ftx({'api_key':apikey,'secret':secret_key ,'enableRateLimit': True,'headers': {
+#                     'FTX-SUBACCOUNT': sub_account_name,
+#                 }})
 class Exchange:
     def __init__(self):
-        self.exchange = self.ccxt.ftx({'api_key':apikey,'secret':secret_key ,'enableRateLimit': True,'headers': {
+        self.exchange = ccxt.ftx({'api_key':apikey,'secret':secret_key ,'enableRateLimit': True,'headers': {
                     'FTX-SUBACCOUNT': sub_account_name,}})
         # self.exchange =ex
     def get_wallet(self):

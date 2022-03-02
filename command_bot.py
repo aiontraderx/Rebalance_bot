@@ -286,12 +286,15 @@ def get_resposnse(cond=None):
 
 # ASSETS_TO_TRADE = ['ETH/USD','SOL/USD']
 # df = create_entry_setting(ASSETS_TO_TRADE)
-df = create_entry_setting(list_setting)
+print(f'Price Range BOT ')
+
+setting  , entry= create_entry_setting(list_setting)
+print('ENTRY : ',entry)
+print('#'*50)
+print('SETTING :',setting)
 
 print('#'*50)
-print(f'Price Range BOT ')
 # print(df)
-print('#'*50)
 # DB = PortDatabase()
 # threading.Thread(target=cd_save, args=(DB, 3600), daemon=True).start()
 processe = []

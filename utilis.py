@@ -6,7 +6,6 @@ import json
 
 
 
-
 def log(msg):
     from datetime import datetime as dt
     timestamp = dt.now().strftime('%Y/%m/%d %H:%M:%S')
